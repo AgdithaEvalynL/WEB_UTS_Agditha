@@ -137,7 +137,7 @@
   <li class="nav-heading">Pages</li>
 
   <li class="nav-item">
-    <a class="nav-link collapsed" href="landingpage.php">
+    <a class="nav-link collapsed" href="index.php">
       <i class="bi bi-person"></i>
       <span>signout</span>
     </a>
