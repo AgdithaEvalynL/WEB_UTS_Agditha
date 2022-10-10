@@ -94,7 +94,7 @@
   <!-- End Components Nav -->
 
   <li class="nav-item">
-    <a class="nav-link collapsed" data-bs-target="#forms-nav" data-bs-toggle="collapse" href="landingpage.php">
+    <a class="nav-link collapsed" data-bs-target="#forms-nav" data-bs-toggle="collapse" href="index.php">
       <i class="bi bi-journal-text"></i><span>See Book</span><i class="bi bi-chevron-down ms-auto"></i>
     </a>
     <ul id="forms-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
@@ -108,7 +108,7 @@
   <!-- End Forms Nav -->
 
   <li class="nav-item">
-    <a class="nav-link collapsed" data-bs-target="#forms-nav" data-bs-toggle="collapse" href="landingpage.php">
+    <a class="nav-link collapsed" data-bs-target="#forms-nav" data-bs-toggle="collapse" href="#">
       <i class="bi bi-journal-text"></i><span>Delete Book</span><i class="bi bi-chevron-down ms-auto"></i>
     </a>
     <ul id="forms-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
@@ -122,7 +122,7 @@
   <!-- End Forms Nav -->
 
   <li class="nav-item">
-    <a class="nav-link collapsed" data-bs-target="#tables-nav" data-bs-toggle="collapse" href="landingpage.php">
+    <a class="nav-link collapsed" data-bs-target="#tables-nav" data-bs-toggle="collapse" href="#">
       <i class="bi bi-layout-text-window-reverse"></i><span>Update Book</span><i class="bi bi-chevron-down ms-auto"></i>
     </a>
     <ul id="tables-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
@@ -137,7 +137,7 @@
   <li class="nav-heading">Pages</li>
 
   <li class="nav-item">
-    <a class="nav-link collapsed" href="landingpage.php">
+    <a class="nav-link collapsed" href="index.php">
       <i class="bi bi-person"></i>
       <span>signout</span>
     </a>
