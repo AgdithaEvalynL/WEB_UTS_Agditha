@@ -1,0 +1,26 @@
+body {
+    background-size: 100%;
+    background-image: url(https://i.pinimg.com/564x/e6/41/9d/e6419d885199bcd55faded23cf722a11.jpg);
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(0, 0, 0);
+}
+
+h3{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(4, 43, 43);
+}
+
+.admin{
+    float: center;
+    transform: translate(300,-1);
+}
+
+.user{
+    transform: translate(200,200);
+}
